@@ -109,12 +109,12 @@ variable "db_instance_class" {
 
 variable "db_username" {
   type    = string
-  default = "admin"
+  default = "XXXXXX"
 }
 
 variable "db_password" {
   type    = string
-  default = "abc12345"
+  default = "XXXXXX"
 }
 
 variable "db_multi_az" {
